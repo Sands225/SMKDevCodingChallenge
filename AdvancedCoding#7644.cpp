@@ -3,7 +3,7 @@ using namespace std;
 int main()
 {
     long long n, hasil = 0;
-    cout << "Masukkan panjang data : ";
+    cout << "Masukkan panjang data (n) : ";
     cin >> n;
 
     long long dua = 2;      // pola
